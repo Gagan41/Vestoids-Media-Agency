@@ -38,6 +38,10 @@ Vestoids Media Agency is a modern and responsive website designed to showcase th
 
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
+## Contact
+
+For any inquiries or feedback, please feel free to contact [Gagan TP](https://www.linkedin.com/in/gagan-tp-62ab89259) and [Abhilash TK](https://www.linkedin.com/in/abhilash0922)
+
 ## License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software under the terms of the MIT License. See the [LICENSE](./LICENSE) file for more details.
